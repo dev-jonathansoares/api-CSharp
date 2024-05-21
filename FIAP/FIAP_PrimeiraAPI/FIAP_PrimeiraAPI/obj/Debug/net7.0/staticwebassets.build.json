@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DTS3IBPMX6PhJNg+h9i6A3zCE4bGKt+iFrQipqj6Mr8=",
+  "Source": "FIAP_PrimeiraAPI",
+  "BasePath": "_content/FIAP_PrimeiraAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
